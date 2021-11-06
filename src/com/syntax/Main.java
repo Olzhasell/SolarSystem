@@ -10,5 +10,12 @@ public class Main {
         andromeda.planets=2;
         andromeda.moon=4;
 
+        FeatureSun mikeSun=new FeatureSun();
+        mikeSun.color="blue";
+        mikeSun.heat="6000034343kj";
+        mikeSun.temp="5celcius";
+        mikeSun.radius="0.009";
+        mikeSun.maritalStatus="single";
+
     }
 }
