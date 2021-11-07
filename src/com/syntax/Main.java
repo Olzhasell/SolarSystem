@@ -17,11 +17,20 @@ public class Main {
         mikeSun.radius="9000000km";
         mikeSun.maritalStatus="double";
 
+
         //Planet2 features
         Planet2 bastronout=new Planet2();
         bastronout.color="pink";
         bastronout.size="3434343343km";
         bastronout.status="same as Mike s";
+
+
+        //adding planet 1 feature
+        Planet1 astronaut=new Planet1();
+        astronaut.color="grey";
+        astronaut.relationshipStatus="single";
+        astronaut.size="9989898989km";
+
 
     }
 }
