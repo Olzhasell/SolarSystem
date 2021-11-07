@@ -17,5 +17,12 @@ public class Main {
         mikeSun.radius="9000000km";
         mikeSun.maritalStatus="double";
 
+
+        //adding planet 1 feature
+        Planet1 astronaut=new Planet1();
+        astronaut.color="grey";
+        astronaut.relationshipStatus="single";
+        astronaut.size="9989898989km";
+
     }
 }
